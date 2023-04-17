@@ -5,7 +5,7 @@
 The first thing to do is to clone the repository:
 
 ```sh
-$  git clone https://kazi_ejaj@bitbucket.org/gpix/mandrill-mail.git
+$ git clone https://github.com/ejaj/mandrill-mail.git
 $ cd mandrill-mail
 ```
 
